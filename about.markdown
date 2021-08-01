@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: À propos
+permalink: /a-propos/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Cinéphile du dimanche est un blog recensant mes critiques de films sortis au grand écran, sur Netflix ou encore PrimeVideo. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Pourquoi "Cinéphile du dimanche" ?
+Parce que je ne me considère pas comme une cinéphile avertie. Je n'ai jamais vu Mullholand Drive, Casablanca ou d'autres grands classiques. J'estime qu'un bon film, c'est un film qui te fait ressentir 
